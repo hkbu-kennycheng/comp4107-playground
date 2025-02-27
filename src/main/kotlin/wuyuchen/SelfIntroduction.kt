@@ -1,5 +1,7 @@
 package hk.edu.hkbu.comp.comp4107.playground.wuyuchen
 
+import java.io.IO.println
+
 class SelfIntroduction {
     fun selfIntroduction() {
         println("Hello, my name is Wuyuchen.")
