@@ -1,4 +1,4 @@
-package hk.edu.hkbu.comp.comp4107.playground.zianzheng
+package hk.edu.hkbu.comp.comp4107.playground.zianzheng.zianzheng
 
 class SelfIntroduction {
     fun selfIntroduction() {
