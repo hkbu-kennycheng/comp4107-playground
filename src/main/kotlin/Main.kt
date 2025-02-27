@@ -8,6 +8,7 @@ fun main() {
     // to see how IntelliJ IDEA suggests fixing it.
     val sel:SelfIntroduction = SelfIntroduction()
     sel.selfIntroduction()
+    println()
 
 
     for (i in 1..5) {
