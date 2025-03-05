@@ -1,4 +1,4 @@
-package hk.edu.hkbu.comp.comp4107.playground.lotszchun
+package hk.edu.hkbu.comp.comp4107.playground.Myselfssbrret
 
 class SelfIntroduction {
     fun selfIntroduction() {
