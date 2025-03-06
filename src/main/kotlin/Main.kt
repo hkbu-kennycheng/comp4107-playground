@@ -8,6 +8,8 @@ fun main() {
     val name = "Kotlin"
     //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
     // to see how IntelliJ IDEA suggests fixing it.
+    val selfIntroduction: SelfIntroduction = SelfIntroduction()
+    selfIntroduction.selfIntroduction()
     SelfIntro().introduce()
 
     for (i in 1..5) {
