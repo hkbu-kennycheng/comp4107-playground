@@ -2,8 +2,8 @@ package hk.edu.hkbu.comp.comp4107.playground.kennycheng
 
 class SelfIntro {
     fun introduce() {
-        val name = "Kenny Cheng"
-        val age = 20
+        val name = "Ng Chun Kit"
+        val age = 22
         val major = "Computer Science"
         val university = "Hong Kong Baptist University"
         val hobbies = listOf("Programming", "Reading", "Gaming", "Music", "Movies", "Travelling")
